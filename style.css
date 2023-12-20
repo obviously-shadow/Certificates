@@ -1,0 +1,46 @@
+* {
+  position:relative;
+  left: 10px;
+  background-color: #480505;
+  text-decoration:double;
+}
+#green {
+  color: green;
+}
+#purple {
+  color: purple;
+}
+#orange {
+  color: orange;
+}
+#blue {
+  color: blue;
+}
+#red {
+  color: red;
+}
+#yellow {
+  color: yellow;
+}
+#pink {
+  color: pink;
+}
+
+#gold {
+  color: gold;
+}
+#silver {
+  color: silver;
+}
+#navy {
+  color: navy;
+}
+#teal {
+  color: teal;
+}
+#olive {
+  color: olive;
+}
+#maroon {
+  color: maroon;
+}
